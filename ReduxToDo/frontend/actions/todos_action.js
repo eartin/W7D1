@@ -15,3 +15,4 @@ export const receiveTodo = (todo) => ({
 
 
 window.receiveTodos = receiveTodos;
+window.receiveTodo = receiveTodo;
